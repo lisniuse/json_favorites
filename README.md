@@ -15,13 +15,13 @@ JSON 收藏夹搜索工具是一个用 Python 编写的命令行实用程序。�
 1. 克隆这个仓库：
 
 ```bash
-git clone https://github.com/lisniuse/json-favorites.git
+git clone git@github.com:lisniuse/json_favorites.git
 ```
 
 2. 进入克隆的仓库目录：
 
 ```bash
-cd json-favorites
+cd json_favorites
 ```
 
 ## 使用
