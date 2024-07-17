@@ -1,0 +1,44 @@
+{
+  "github": [
+    {
+      "name": "dependency",
+      "author": "JelinYao",
+      "desc": "Dependency Walker在Win10上面太卡了，受不了了，自己开发一个替代。",
+      "keyword": "{windows 工具}{调试}{逆向工程}",
+      "url": "https://github.com/JelinYao/dependency",
+      "remarks": "Dependency Walker在Win10上面太卡了，受不了了，自己开发一个替代。"
+    },
+    {
+      "name": "Dependencies",
+      "author": "lucasg",
+      "desc": "A rewrite of the old legacy software \"depends.exe\" in C# for Windows devs to troubleshoot dll load dependencies issues.",
+      "keyword": "{windows 工具}{调试}{逆向工程}",
+      "url": "https://github.com/JelinYao/dependency",
+      "remarks": "在 C# 中重写旧旧软件“depends.exe”，供 Windows 开发人员解决 dll 加载依赖项问题。"
+    },
+    {
+      "name": "giscus",
+      "author": "giscus",
+      "desc": "A comment system powered by GitHub Discussions. :octocat: ",
+      "keyword": "{github}{评论插件}{评论系统}",
+      "url": "https://github.com/giscus/giscus",
+      "remarks": "利用 GitHub Discussions 实现的评论系统，让访客借助 GitHub 在你的网站上留下评论和反应吧！本项目深受 utterances 的启发。"
+    },
+    {
+      "name": "hello-algo",
+      "author": "krahets",
+      "desc": "《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version ongoing",
+      "keyword": "{算法}{数据结构}{教程}",
+      "url": "https://github.com/krahets/hello-algo",
+      "remarks": "《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version ongoing"
+    },
+    {
+      "name": "mc_auto_boss",
+      "author": "lazydog28",
+      "desc": "鸣潮后台自动刷BOSS声骸",
+      "keyword": "{游戏辅助}{游戏外挂}{游戏脚本}{自动化脚本}",
+      "url": "https://github.com/lazydog28/mc_auto_boss",
+      "remarks": "鸣潮后台自动刷BOSS声骸"
+    }
+  ]
+}

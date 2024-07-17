@@ -1,0 +1,13 @@
+{
+  "tools": [
+    {
+      "name": "52HB-OllyDbg",
+      "author": "",
+      "desc": "52汇编版OllyDbg",
+      "keyword": "{调试工具}{动态调试}",
+      "ZIPPath": "./52HB-Dbg.zip",
+      "exePath": "./52HB-Dbg/ollydbg.EXE",
+      "remarks": "52汇编版OllyDbg"
+    }
+  ]
+}
