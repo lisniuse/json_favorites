@@ -39,6 +39,150 @@
       "keyword": "{游戏辅助}{游戏外挂}{游戏脚本}{自动化脚本}",
       "url": "https://github.com/lazydog28/mc_auto_boss",
       "remarks": "鸣潮后台自动刷BOSS声骸"
+    },
+    {
+      "name": "Shell",
+      "author": "moudey",
+      "desc": "Powerful context menu manager for Windows File Explorer",
+      "keyword": "{右键管理}{Windows菜单管理}",
+      "url": "https://github.com/moudey/Shell",
+      "remarks": "Windows文件资源管理器的强大上下文菜单管理器"
+    },
+    {
+      "name": "Process-Protect",
+      "author": "SenberHu",
+      "desc": "Windows下进程保护项目，包含应用层和驱动层自保",
+      "keyword": "{Windows驱动}{Windows进程}",
+      "url": "https://github.com/SenberHu/Process-Protect",
+      "remarks": "Windows下进程保护项目，包含应用层和驱动层自保"
+    },
+    {
+      "name": "Pentest-Windows",
+      "author": "arch3rPro",
+      "desc": "Windows11 Penetration Suite Toolkit 一个开箱即用的windows渗透测试环境",
+      "keyword": "{操作系统}{虚拟机操作系统}{渗透工具包}{vmware操作系统}",
+      "url": "https://github.com/arch3rPro/Pentest-Windows",
+      "remarks": "Windows11 Penetration Suite Toolkit 一个开箱即用的windows渗透测试环境"
+    },
+    {
+      "name": "cheat-engine",
+      "author": "Dark Byte",
+      "desc": "Cheat Engine. A development environment focused on modding",
+      "keyword": "{Windows内存读写工具}{CE}{游戏作弊}",
+      "url": "https://github.com/cheat-engine/cheat-engine",
+      "remarks": "作弊引擎。专注于游戏MOD的开发工具"
+    },
+    {
+      "name": "yolov10",
+      "author": "THU-MIG",
+      "desc": "YOLOv10: Real-Time End-to-End Object Detection",
+      "keyword": "{计算机视觉}{目标检测}",
+      "url": "https://github.com/THU-MIG/yolov10",
+      "remarks": "YOLOv10: 实时端到端目标检测系统"
+    },
+    {
+      "name": "EasyHook",
+      "author": "EasyHook",
+      "desc": "EasyHook - The reinvention of Windows API Hooking",
+      "keyword": "{WindowsHOOK库}{Windows钩子库}",
+      "url": "https://github.com/EasyHook/EasyHook",
+      "remarks": "EasyHook -Windows API Hooking的重塑"
+    },
+    {
+      "name": "json",
+      "author": "nlohmann",
+      "desc": "JSON for Modern C++",
+      "keyword": "{C++库}{JSON库}",
+      "url": "https://github.com/nlohmann/json",
+      "remarks": "一个可用于现代C++的JSON库"
+    },
+    {
+      "name": "json",
+      "author": "nlohmann",
+      "desc": "JSON for Modern C++",
+      "keyword": "{C++库}{JSON库}",
+      "url": "https://github.com/nlohmann/json",
+      "remarks": "一个可用于现代C++的JSON库"
+    },
+    {
+      "name": "Game-Cheating-Tutorial",
+      "author": "hemasama",
+      "desc": "热门网络游戏辅助开发教程",
+      "keyword": "{教程}{游戏安全}{游戏外挂教程}{游戏作弊教程}{Windows底层}{Windows内核}",
+      "url": "https://github.com/hemasama/Game-Cheating-Tutorial",
+      "remarks": "热门网络游戏辅助开发教程"
+    },
+    {
+      "name": "csgo-cheating",
+      "author": "245950258",
+      "desc": "CSGO游戏透视自瞄辅助实现教程",
+      "keyword": "{教程}{游戏安全}{游戏外挂教程}{游戏作弊教程}{Windows底层}{Windows内核}{CSGO作弊}",
+      "url": "https://github.com/245950258/How-to-create-a-csgo-cheating-program",
+      "remarks": "CSGO游戏透视自瞄辅助实现教程"
+    },
+    {
+      "name": "PVZHybrid_Editor",
+      "author": "EFrostBlade",
+      "desc": "A modifier of Plants vs Zombies hybrid.",
+      "keyword": "{游戏修改器}{植物大战僵尸修改器}{游戏作弊}",
+      "url": "https://github.com/EFrostBlade/PVZHybrid_Editor",
+      "remarks": "植物大战僵尸杂交版本游戏的修改器"
+    },
+    {
+      "name": "ModEngine2",
+      "author": "soulsmods",
+      "desc": "Runtime injection library for modding Souls games. WIP",
+      "keyword": "{MOD工具}{注入库}{HOOK库}{游戏HOOK}",
+      "url": "https://github.com/soulsmods/ModEngine2",
+      "remarks": "用于修改艾尔登法环游戏的运行时注入库，主要用于游戏MOD的加载"
+    },
+    {
+      "name": "MaaFramework",
+      "author": "MaaXYZ",
+      "desc": "An automation black-box testing framework based on image recognition",
+      "keyword": "{自动化}{测试}{自动化测试}{图像识别}{计算机视觉}",
+      "url": "https://github.com/MaaXYZ/MaaFramework",
+      "remarks": "基于图像识别的自动化黑盒测试框架"
+    },
+    {
+      "name": "awesome-cpp",
+      "author": "fffaraz",
+      "desc": "A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.",
+      "keyword": "{C++}{C++库}{awesome}",
+      "url": "https://github.com/fffaraz/awesome-cpp",
+      "remarks": "精选的 C++（或 C）框架、库、资源和相关的列表。"
+    },
+    {
+      "name": "cs1.6-c-cheatengine",
+      "author": "Etherwave",
+      "desc": "使用c++写的cs1.6的修改器，初始版本，功能较简单",
+      "keyword": "{CS1.6}{CS1.6修改器}{修改器源码}{游戏作弊工具}{游戏内存修改}{C++源码}",
+      "url": "https://github.com/Etherwave/cs1.6-c-cheatengine",
+      "remarks": "使用c++写的cs1.6的修改器，初始版本，功能较简单"
+    },
+    {
+      "name": "cs1.6-auxiliary",
+      "author": "bigchao8",
+      "desc": "c++,windows；基于内存查找修改的透视辅助",
+      "keyword": "{CS1.6}{CS1.6修改器}{修改器源码}{游戏作弊工具}{游戏内存修改}{透视外挂源码}{C++源码}",
+      "url": "https://github.com/bigchao8/cs1.6-auxiliary",
+      "remarks": "c++,windows；基于内存查找修改的透视辅助"
+    },
+    {
+      "name": "PUBG-PAK-Hacker",
+      "author": "DragonQuestHero",
+      "desc": "use windows kernel deriver hidden file and itself to Bypass BE",
+      "keyword": "{PUBG}{PUBG外挂}{外挂源码}{过检测源码}{修改器源码}{游戏作弊工具}{游戏内存修改}{透视外挂源码}{C++源码}",
+      "url": "https://github.com/DragonQuestHero/PUBG-PAK-Hacker",
+      "remarks": "使用Windows内核派生器隐藏文件及其本身来绕过BE"
+    },
+    {
+      "name": "PUBG-External-Cheat-FULL-Feature",
+      "author": "UpYourss",
+      "desc": "use windows kernel deriver hidden file and itself to Bypass BE",
+      "keyword": "{PUBG}{PUBG外挂}{外挂源码}{过检测源码}{修改器源码}{游戏作弊工具}{游戏内存修改}{透视外挂源码}{C++源码}",
+      "url": "https://github.com/UpYourss/PUBG-External-Cheat-FULL-Feature",
+      "remarks": "此PUBG 作弊源代码用C++编写，提供了一套全面的功能，旨在增强玩家的游戏体验。"
     }
   ]
 }

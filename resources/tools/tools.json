@@ -2,12 +2,53 @@
   "tools": [
     {
       "name": "52HB-OllyDbg",
-      "author": "",
+      "author": "OllyDbg",
       "desc": "52汇编版OllyDbg",
-      "keyword": "{调试工具}{动态调试}",
+      "keyword": "{调试工具}{反汇编工具}{动态调试}",
       "ZIPPath": "./52HB-Dbg.zip",
       "exePath": "./52HB-Dbg/ollydbg.EXE",
-      "remarks": "52汇编版OllyDbg"
+      "remarks": "52汇编版OllyDbg",
+      "downloadUrl": "https://pan.baidu.com/s/1OSkBSJ5EuiD8-e-yxiitGQ?pwd=n7zg"
+    },
+    {
+      "name": "IDA Pro 7.6.210427（汉化版）",
+      "author": "Hex-Rayd",
+      "desc": "交互式反汇编器专业版（Interactive Disassembler Professional），人们常称其为IDA Pro，或简称为IDA。是最棒的一个静态反编译软件，为众多0day世界的成员和ShellCode安全分析人士不可缺少的利器！IDA Pro是一款交互式的，可编程的，可扩展的，多处理器的，交叉Windows或Linux WinCE MacOS平台主机来分析程序， 被公认为最好的花钱可以买到的逆向工程利器。",
+      "keyword": "{调试工具}{反汇编工具}{静态调试}",
+      "ZIPPath": "./IDA Pro 7.6.210427.zip",
+      "exePath": "./IDA Pro 7.6.210427/x64_idapronw_hexarm64w_hexarmw_hexmipsw_hexppc64w_hexppcw_hexx64w_hexx86w_210427/ida64.exe",
+      "remarks": "交互式反汇编器专业版（Interactive Disassembler Professional），人们常称其为IDA Pro，或简称为IDA。是最棒的一个静态反编译软件，为众多0day世界的成员和ShellCode安全分析人士不可缺少的利器！IDA Pro是一款交互式的，可编程的，可扩展的，多处理器的，交叉Windows或Linux WinCE MacOS平台主机来分析程序， 被公认为最好的花钱可以买到的逆向工程利器。",
+      "downloadUrl": "https://pan.baidu.com/s/1MayxUZH04BjbOF_cmcjl1w?pwd=mcfj"
+    },
+    {
+      "name": "IDA Pro 7.7（全插件版）",
+      "author": "Hex-Rayd",
+      "desc": "交互式反汇编器专业版（Interactive Disassembler Professional），人们常称其为IDA Pro，或简称为IDA。是最棒的一个静态反编译软件，为众多0day世界的成员和ShellCode安全分析人士不可缺少的利器！IDA Pro是一款交互式的，可编程的，可扩展的，多处理器的，交叉Windows或Linux WinCE MacOS平台主机来分析程序， 被公认为最好的花钱可以买到的逆向工程利器。",
+      "keyword": "{调试工具}{反汇编工具}{静态调试}",
+      "ZIPPath": "./IDA_Pro_7.7.rar",
+      "exePath": "./IDA_Pro_7.7/ida64.exe",
+      "remarks": "交互式反汇编器专业版（Interactive Disassembler Professional），人们常称其为IDA Pro，或简称为IDA。是最棒的一个静态反编译软件，为众多0day世界的成员和ShellCode安全分析人士不可缺少的利器！IDA Pro是一款交互式的，可编程的，可扩展的，多处理器的，交叉Windows或Linux WinCE MacOS平台主机来分析程序， 被公认为最好的花钱可以买到的逆向工程利器。",
+      "downloadUrl": "https://pan.baidu.com/s/1Vuxd6q0bbINZ3sSCt8wKmQ?pwd=drgw"
+    },
+    {
+      "name": "x64 Dbg",
+      "author": "Duncan Ogilvie",
+      "desc": "An open-source x64/x32 debugger for windows.",
+      "keyword": "{调试工具}{反汇编工具}{动态调试}",
+      "ZIPPath": "./x64_dbg.zip",
+      "exePath": "./x64_dbg/release/x64/x64dbg.exe",
+      "remarks": "一款开源运行于Windows平台下的64/32位调试工具",
+      "downloadUrl": "https://pan.baidu.com/s/1xlmRHpB8Qu0_xr28gEVn1Q?pwd=fyjg"
+    },
+    {
+      "name": "Cheat Engine 7.5",
+      "author": "Cheat Engine",
+      "desc": "Cheat Engine是一款专注于游戏的修改器。它可以用来扫描游戏中的内存，并允许修改它们。它还附带了调试器、反汇编器、汇编器、变速器、作弊器生成、Direct3D操作工具、系统检查工具等。",
+      "keyword": "{ce}{调试工具}{反汇编工具}{动态调试}{内存调试}",
+      "ZIPPath": "./Cheat Engine 7.5.zip",
+      "exePath": "./Cheat Engine 7.5/Cheat Engine.exe",
+      "remarks": "Cheat Engine是一款专注于游戏的修改器。它可以用来扫描游戏中的内存，并允许修改它们。它还附带了调试器、反汇编器、汇编器、变速器、作弊器生成、Direct3D操作工具、系统检查工具等。",
+      "downloadUrl": "https://pan.baidu.com/s/1mN-2Y_RVjuBspxhgyEuIXg?pwd=bym6"
     }
   ]
 }

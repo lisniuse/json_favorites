@@ -8,11 +8,15 @@ import shutil
 import sys
 
 # version
-VERSION = "1.0.0"
+VERSION = "1.0.1"
+
+# modules supported
+MODULES = [ "github", "tools", "website" ]
 
 class LocaleHandler:
     translations = {
         "en": {
+            "file_not_found": "No exe or zip file was found from your hard drive. Please download it yourself according to the download address provided.",
             "input_tips": "Enter command(Enter 'help' to see the help):",
             "keyword_required": "Keyword to search for",
             "type_optional": "Category type to search (e.g., tools, website, github). If not specified, search all categories",
@@ -51,6 +55,7 @@ Examples:
             """,
         },
         "zh": {
+            "file_not_found": "没有从你的硬盘里找到任何exe或者zip文件，请根据提供的下载地址自行下载。",
             "input_tips": "Enter command（help可查看帮助）：",
             "keyword_required": "要搜索的关键字",
             "type_optional": "要搜索的类别类型（例如：tools, website, github）。如果未指定，则搜索所有类别",
@@ -160,37 +165,39 @@ class JsonBookmarkTool:
 
     def load_json_files(self, file_paths):
         """Load JSON data from the list of file paths."""
-        json_data = []
+        json_data = {}
+        for m in MODULES: json_data[m] = []
+        
         for file_path in file_paths:
             with open(file_path, 'r', encoding='utf-8') as file:
                 data = json.load(file)
                 for key in data:
-                  for item in data[key]:
-                    item["sourceFile"] = file_path
-                json_data.append(data)
+                    if key in MODULES:
+                        for item in data[key]:
+                            item["sourceFile"] = file_path
+                            json_data[key].append(item)
         return json_data
 
     def search_items(self, json_data, keyword, category=None):
         """Search for items in JSON data that match the given keyword and optionally a category."""
         matches = []
-        for data in json_data:
-            for key, items in data.items():
-                if category and key != category:
-                    continue
-                for item in items:
-                    if keyword.lower() in json.dumps(item, ensure_ascii=False).lower():
-                        matches.append((key, item))
+        for m in json_data:
+            if category and m != category:
+                continue
+            for item in json_data[m]:
+                if keyword.lower() in json.dumps(item, ensure_ascii=False).lower():
+                    matches.append((m, item))
         return matches
 
     def list_items(self, json_data, category=None):
         """List all items in JSON data optionally filtered by category."""
         items = []
-        for data in json_data:
-            for key, items_list in data.items():
-                if category and key != category:
-                    continue
-                for item in items_list:
-                    items.append((key, item))
+        for m in json_data:
+            print(m, category)
+            if category and m != category:
+                continue
+            for item in json_data[m]:
+                items.append((m, item))
         return items
 
     def display_results(self, results):
@@ -341,10 +348,13 @@ class JsonBookmarkTool:
         
         # Check if the executable path exists
         if os.path.exists(exe_path):
-          self.run_exe(exe_path)
+            self.run_exe(exe_path)
+        elif os.path.exists(zip_path):
+            self.un_zip(zip_path)
+            self.run_exe(exe_path)
         else:
-          self.un_zip(zip_path)
-          self.run_exe(exe_path)
+            print(self.locale_handler.locale_texts["file_not_found"])
+            print("\n downloadUrl: " + selected_item["downloadUrl"])
 
     def print_detailed_info(self, item):
         """Print detailed information of the selected item, showing each key-value pair."""
