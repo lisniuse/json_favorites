@@ -193,7 +193,6 @@ class JsonBookmarkTool:
         """List all items in JSON data optionally filtered by category."""
         items = []
         for m in json_data:
-            print(m, category)
             if category and m != category:
                 continue
             for item in json_data[m]:
