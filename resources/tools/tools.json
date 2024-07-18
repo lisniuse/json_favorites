@@ -89,6 +89,16 @@
       "exePath": "./PYArkClient/PYArkClient.vmp.exe",
       "remarks": "windows内核管理工具，support WIN7-WIN11(22H2)，帮你开通去学妹宿舍修电脑的绿色大道",
       "downloadUrl": "https://pan.baidu.com/s/1l4i6f2tUsbeul3vLyAL0Pg?pwd=zg9u"
+    },
+    {
+      "name": "InstDrv",
+      "author": "Coderui",
+      "desc": "该软件和网上大家常用的“InstDrv”程序功能几乎一样，现在也支持[命令行控制台]调用了，只是新加入了详细的中文提示信息和拖拽打开文件等，这样可以方便用户的使用。“InstDrv”是一个比较好用的驱动安装、卸载工具。可以帮助您方便的把驱动程序安装上或卸载掉。本程序更多应用于动态调式驱动前的加载操作中。",
+      "keyword": "{内核}{驱动}{驱动加载工具}{驱动卸载工具}{驱动工具}{调试工具}",
+      "ZIPPath": "./InstDrv.zip",
+      "exePath": "./InstDrv/InstDrv.exe",
+      "remarks": "该软件和网上大家常用的“InstDrv”程序功能几乎一样，现在也支持[命令行控制台]调用了，只是新加入了详细的中文提示信息和拖拽打开文件等，这样可以方便用户的使用。“InstDrv”是一个比较好用的驱动安装、卸载工具。可以帮助您方便的把驱动程序安装上或卸载掉。本程序更多应用于动态调式驱动前的加载操作中。",
+      "downloadUrl": "https://pan.baidu.com/s/1_-h5ls8ivTmbW0jMjBMRHg?pwd=xkr6"
     }
   ]
 }
