@@ -119,6 +119,16 @@
       "exePath": "./DriverMonitor(DriverStudio 3.2.0(Build 2485))/monitor.exe",
       "remarks": "DriverMonitor 有两个用途：它可以显示调试消息以及启动和停止 Windows 9x VxD 和 Windows NT 系列驱动程序。",
       "downloadUrl": "https://pan.baidu.com/s/1-MaN9At7XF98i-GJzvBIPA?pwd=dn7h"
+    },
+    {
+      "name": "Reqable",
+      "author": "https://reqable.com/",
+      "desc": "Reqable是一款跨平台的专业HTTP开发和调试工具，在全平台支持HTTP1、HTTP2和HTTP3(QUIC)协议，简单易用、功能强大、性能高效，助力程序开发和测试人员提高生产力！本产品需要一定的网络基础知识，适合开发、测试、网络、安全、爬虫等工程专业人员使用，或者在专业人员的指导下使用。",
+      "keyword": "{HTTP}{HTTP调试}{HTTPHOOK}{API调试}{抓包工具}{抓包}{调试工具}",
+      "ZIPPath": "./reqable-app-windows-x86_64.zip",
+      "exePath": "./reqable-app-windows-x86_64/Reqable.exe",
+      "remarks": "Reqable是一款跨平台的专业HTTP开发和调试工具，在全平台支持HTTP1、HTTP2和HTTP3(QUIC)协议，简单易用、功能强大、性能高效，助力程序开发和测试人员提高生产力！本产品需要一定的网络基础知识，适合开发、测试、网络、安全、爬虫等工程专业人员使用，或者在专业人员的指导下使用。",
+      "downloadUrl": "https://pan.baidu.com/s/1N_fGYmjTLbQTOAQhiWKy0g?pwd=kegu"
     }
   ]
 }
