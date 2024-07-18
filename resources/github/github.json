@@ -97,14 +97,6 @@
       "remarks": "一个可用于现代C++的JSON库"
     },
     {
-      "name": "json",
-      "author": "nlohmann",
-      "desc": "JSON for Modern C++",
-      "keyword": "{C++库}{JSON库}",
-      "url": "https://github.com/nlohmann/json",
-      "remarks": "一个可用于现代C++的JSON库"
-    },
-    {
       "name": "Game-Cheating-Tutorial",
       "author": "hemasama",
       "desc": "热门网络游戏辅助开发教程",
