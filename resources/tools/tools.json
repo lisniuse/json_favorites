@@ -49,6 +49,46 @@
       "exePath": "./Cheat Engine 7.5/Cheat Engine.exe",
       "remarks": "Cheat Engine是一款专注于游戏的修改器。它可以用来扫描游戏中的内存，并允许修改它们。它还附带了调试器、反汇编器、汇编器、变速器、作弊器生成、Direct3D操作工具、系统检查工具等。",
       "downloadUrl": "https://pan.baidu.com/s/1mN-2Y_RVjuBspxhgyEuIXg?pwd=bym6"
+    },
+    {
+      "name": "Process Monitor",
+      "author": "microsoft",
+      "desc": "Process Monitor is an advanced monitoring tool for Windows that shows real-time file system, Registry and process/thread activity.",
+      "keyword": "{进程监视器}{进程行为监视器}{调试工具}",
+      "ZIPPath": "./procmon.zip",
+      "exePath": "./procmon/Procmon64.exe",
+      "remarks": "进程监视器是 Windows 的一个高级监视工具，可显示实时文件系统、注册表和进程/线程活动。",
+      "downloadUrl": "https://pan.baidu.com/s/1AdVm4arZavSEpidbzkWSGA?pwd=7gl1"
+    },
+    {
+      "name": "Process Explorer",
+      "author": "microsoft",
+      "desc": "Process Explorer shows you information about which handles and DLLs processes have opened or loaded.",
+      "keyword": "{进程浏览器}{进程DLL信息查看}{调试工具}",
+      "ZIPPath": "./procexp.zip",
+      "exePath": "./procexp/procexp64.exe",
+      "remarks": "Process Explorer 向您显示有关进程已打开或加载哪些句柄和 DLL 的信息。",
+      "downloadUrl": "https://pan.baidu.com/s/1svHL7LRvoiMsAZBC0pLXqQ?pwd=6u6q"
+    },
+    {
+      "name": "Dependencies x64",
+      "author": "lucasg",
+      "desc": "A rewrite of the old legacy software \"depends.exe\" in C# for Windows devs to troubleshoot dll load dependencies issues.",
+      "keyword": "{DLL模块查看}{DLL函数查看}{DLL调用查看}{进程DLL信息查看}{调试工具}",
+      "ZIPPath": "./Dependencies_x64.zip",
+      "exePath": "./Dependencies_x64/DependenciesGui.exe",
+      "remarks": "为Windows开发人员将解决 DLL 加载依赖关系问题。",
+      "downloadUrl": "https://pan.baidu.com/s/1r62d7I6dWWnuDdA-5sWDLw?pwd=644u"
+    },
+    {
+      "name": "PYArkClient",
+      "author": "http://www.pysafe.cn/",
+      "desc": "Windows内核管理工具，support WIN7-WIN11(22H2)，帮你开通去学妹宿舍修电脑的绿色大道",
+      "keyword": "{DLL}{内核}{驱动}{DLL注入}{内核钩子}{进程查看}{驱动查看}{调试工具}{服务查看}{Windows}",
+      "ZIPPath": "./PYArkClient.zip",
+      "exePath": "./PYArkClient/PYArkClient.vmp.exe",
+      "remarks": "windows内核管理工具，support WIN7-WIN11(22H2)，帮你开通去学妹宿舍修电脑的绿色大道",
+      "downloadUrl": "https://pan.baidu.com/s/1l4i6f2tUsbeul3vLyAL0Pg?pwd=zg9u"
     }
   ]
 }

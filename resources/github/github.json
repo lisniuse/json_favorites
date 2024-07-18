@@ -13,7 +13,7 @@
       "author": "lucasg",
       "desc": "A rewrite of the old legacy software \"depends.exe\" in C# for Windows devs to troubleshoot dll load dependencies issues.",
       "keyword": "{windows 工具}{调试}{逆向工程}",
-      "url": "https://github.com/JelinYao/dependency",
+      "url": "https://github.com/lucasg/Dependencies",
       "remarks": "在 C# 中重写旧旧软件“depends.exe”，供 Windows 开发人员解决 dll 加载依赖项问题。"
     },
     {
