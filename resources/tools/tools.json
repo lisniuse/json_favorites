@@ -99,6 +99,26 @@
       "exePath": "./InstDrv/InstDrv.exe",
       "remarks": "该软件和网上大家常用的“InstDrv”程序功能几乎一样，现在也支持[命令行控制台]调用了，只是新加入了详细的中文提示信息和拖拽打开文件等，这样可以方便用户的使用。“InstDrv”是一个比较好用的驱动安装、卸载工具。可以帮助您方便的把驱动程序安装上或卸载掉。本程序更多应用于动态调式驱动前的加载操作中。",
       "downloadUrl": "https://pan.baidu.com/s/1_-h5ls8ivTmbW0jMjBMRHg?pwd=xkr6"
+    },
+    {
+      "name": "DebugView v4.90",
+      "author": "microsoft",
+      "desc": "DebugView is an application that lets you monitor debug output on your local system, or any computer on the network that you can reach via TCP/IP. It is capable of displaying both kernel-mode and Win32 debug output, so you don't need a debugger to catch the debug output your applications or device drivers generate, nor do you need to modify your applications or drivers to use non-standard debug output APIs.",
+      "keyword": "{内核}{驱动}{驱动调试}{调试工具}",
+      "ZIPPath": "./DebugView.zip",
+      "exePath": "./DebugView/dbgview64.exe",
+      "remarks": "DebugView 是一款应用程序，可让您监控本地系统或网络上任何可通过 TCP/IP 访问的计算机的调试输出。它能够显示内核模式和 Win32 调试输出，因此您无需使用调试器来捕获应用程序或设备驱动程序生成的调试输出，也无需修改应用程序或驱动程序以使用非标准调试输出 API。",
+      "downloadUrl": "https://pan.baidu.com/s/1_so5l-QCH5rJjBbXCQ7PKw?pwd=952i"
+    },
+    {
+      "name": "DriverMonitor",
+      "author": "Compuware",
+      "desc": "DriverMonitor has two purposes: It can display debug messages as well as start and stop Windows 9x VxDs and Windows NT family drivers.",
+      "keyword": "{内核}{驱动加载}{驱动卸载}{驱动工具}{驱动调试}{调试工具}",
+      "ZIPPath": "./DriverMonitor(DriverStudio 3.2.0(Build 2485)).zip",
+      "exePath": "./DriverMonitor(DriverStudio 3.2.0(Build 2485))/monitor.exe",
+      "remarks": "DriverMonitor 有两个用途：它可以显示调试消息以及启动和停止 Windows 9x VxD 和 Windows NT 系列驱动程序。",
+      "downloadUrl": "https://pan.baidu.com/s/1-MaN9At7XF98i-GJzvBIPA?pwd=dn7h"
     }
   ]
 }
