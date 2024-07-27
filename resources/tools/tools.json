@@ -138,7 +138,7 @@
       "ZIPPath": "./TreeSize.Pro.8.3.2.1665.x64.zip",
       "exePath": "./TreeSize.Pro.8.3.2.1665.x64/TreeSize.exe",
       "remarks": "TreeSize Free 是 Windows 的免费磁盘空间管理器。该软件显示您的文件夹大小，包括所有子文件夹。",
-      "downloadUrl": "链接：https://pan.baidu.com/s/1ZGM2HKMIvJ4T7A9AgV3zcA?pwd=afto"
+      "downloadUrl": "https://pan.baidu.com/s/1ZGM2HKMIvJ4T7A9AgV3zcA?pwd=afto"
     },
     {
       "name": "DiskGenius",
@@ -148,7 +148,17 @@
       "ZIPPath": "./DG5601565_x64.zip",
       "exePath": "./DiskGenius/DiskGenius.exe",
       "remarks": "DiskGenius是一款专业级的数据恢复软件，算法精湛、功能强大，用户群体广泛；支持各种情况下的文件恢复和分区恢复，恢复效果好；文件预览、扇区编辑、加密分区恢复、Ext4分区恢复、RAID恢复等高级功能应有尽有，满足个人用户及企业用户对数据恢复的各种需求。",
-      "downloadUrl": "链接：https://pan.baidu.com/s/1ZGM2HKMIvJ4T7A9AgV3zcA?pwd=afto"
+      "downloadUrl": "https://pan.baidu.com/s/1sbaTLKy7AOr97dpW1H8RJQ?pwd=x2ks"
+    },
+    {
+      "name": "SwitchHosts",
+      "author": "https://switchhosts.vercel.app/",
+      "desc": "SwitchHosts 是一个管理、切换多个 hosts 方案的工具。它是一个免费开源软件。",
+      "keyword": "{SwitchHosts}{host管理}{host}{host切换}",
+      "ZIPPath": "./SwitchHosts.zip",
+      "exePath": "./SwitchHosts/SwitchHosts.exe",
+      "remarks": "SwitchHosts 是一个管理、切换多个 hosts 方案的工具。它是一个免费开源软件。",
+      "downloadUrl": "https://pan.baidu.com/s/1_Xtzgo-Bjur-uOpXV4I9CQ?pwd=a0y5"
     }
   ]
 }
