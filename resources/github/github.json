@@ -175,6 +175,14 @@
       "keyword": "{PUBG}{PUBG外挂}{外挂源码}{过检测源码}{修改器源码}{游戏作弊工具}{游戏内存修改}{透视外挂源码}{C++源码}",
       "url": "https://github.com/UpYourss/PUBG-External-Cheat-FULL-Feature",
       "remarks": "此PUBG 作弊源代码用C++编写，提供了一套全面的功能，旨在增强玩家的游戏体验。"
+    },
+    {
+      "name": "ChatTTS-ui",
+      "author": "jianchang512",
+      "desc": "A simple native web interface that uses ChatTTS to synthesize text into speech, along with support for external API interfaces.",
+      "keyword": "{tts}{ChatTTS}{语音合成}{文字转语音}{文本转语音}",
+      "url": "https://github.com/jianchang512/ChatTTS-ui",
+      "remarks": "一个简单的本地网页界面，使用ChatTTS将文字合成为语音，同时支持对外提供API接口。"
     }
   ]
 }
