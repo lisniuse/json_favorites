@@ -34,9 +34,19 @@
       "name": "x64 Dbg",
       "author": "Duncan Ogilvie",
       "desc": "An open-source x64/x32 debugger for windows.",
-      "keyword": "{逆向}{调试工具}{反汇编工具}{动态调试}",
+      "keyword": "{dbg}{逆向}{调试工具}{反汇编工具}{动态调试}",
       "ZIPPath": "./x64_dbg.zip",
       "exePath": "./x64_dbg/release/x64/x64dbg.exe",
+      "remarks": "一款开源运行于Windows平台下的64/32位调试工具",
+      "downloadUrl": "https://pan.baidu.com/s/1xlmRHpB8Qu0_xr28gEVn1Q?pwd=fyjg"
+    },
+    {
+      "name": "x32 Dbg",
+      "author": "Duncan Ogilvie",
+      "desc": "An open-source x64/x32 debugger for windows.",
+      "keyword": "{dbg}{逆向}{调试工具}{反汇编工具}{动态调试}",
+      "ZIPPath": "./x64_dbg.zip",
+      "exePath": "./x64_dbg/release/x32/x32dbg.exe",
       "remarks": "一款开源运行于Windows平台下的64/32位调试工具",
       "downloadUrl": "https://pan.baidu.com/s/1xlmRHpB8Qu0_xr28gEVn1Q?pwd=fyjg"
     },
